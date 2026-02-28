@@ -1,0 +1,14 @@
+# Python 3.9, 3.10, 3.11 ile uyumlu
+# Önerilen: Python 3.10
+
+# Web Framework
+streamlit==1.31.0
+
+# HTTP İstekleri
+requests==2.31.0
+
+# Google Gemini API (Opsiyonel - görsel oluşturma için)
+google-generativeai==0.4.0
+
+# Görsel İşleme
+Pillow==10.2.0
