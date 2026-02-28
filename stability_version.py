@@ -8,6 +8,10 @@ import time
 from deep_translator import GoogleTranslator
 import os
 from datetime import datetime
+from dotenv import load_dotenv
+
+load_dotenv()
+
 
 # ============================================================================
 # CONFIGURATION
@@ -17,7 +21,7 @@ OLLAMA_URL = "http://localhost:11434/api/generate"
 OLLAMA_MODEL = "llama3.2:3b"
 
 # API KEY GOMULU
-STABILITY_API_KEY = "sk-khpr85prAoCnffP8jdDIdKy4nOW1PXr9k7SLMuExILadCSxL"
+STABILITY_API_KEY = os.getenv("STABILITY_API_KEY")
 
 # Stable Image Ultra endpoint
 STABILITY_API_URL = "https://api.stability.ai/v2beta/stable-image/generate/ultra"
