@@ -1,0 +1,8 @@
+{
+  "timestamp": "20251220_175647",
+  "prompt": "Create a photorealistic image in the Yok style, capturing a group of motorcyclists riding through a vibrant, neon-lit cyberpunk cityscape. Utilize natural lighting and incorporate realistic textures to enhance the scene. The aspect ratio should be maintained at 16:9, with a focus on dynamic composition and depth. Include detailed motorcycles and riders, with attention to realistic anatomy and biomechanics. Avoid cartoonish or stylized elements, instead opting for a grounded, realistic aesthetic. Maintain high detail and clean geometry throughout the scene.",
+  "model": "Ultra",
+  "style": "Yok",
+  "aspect_ratio": "16:9",
+  "image_file": "20251220_175647.png"
+}
