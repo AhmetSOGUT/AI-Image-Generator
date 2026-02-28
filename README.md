@@ -34,7 +34,7 @@ ai-prompt-architect/
 │   ├── 20250101_120000.png
 │   └── 20250101_120000.json
 │
-├── .env              # API anahtarları (Git'e ekleme!)
+├── .env              # API anahtarı
 └── requirements.txt
 ```
 
